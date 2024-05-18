@@ -1,0 +1,28 @@
+.id input{
+    width: 400px;
+}
+.input-group option {
+    width: 400px;
+}
+.inputGroupSelect01 option{
+    width: 400px;
+}
+
+
+
+.Nombre input {
+    width: 600px;
+}
+
+
+.Precio input{
+    width: 400px;
+
+}
+.DescuentoSubs input{
+    width: 400px
+
+}
+.DescuentoNorml input{
+    width: 400px;
+}

@@ -1,0 +1,118 @@
+.logo {
+    width: 80px;
+    margin-right: 40xp;
+}
+.card-img-top{
+    width: 40px;
+    margin-right: 10xp;
+}
+.marco_login{
+    border: 1xp solid gray;
+    margin-right: 400xp;
+    margin-left: 400px;
+    margin-top: 40xp;
+
+}
+h1{
+    text-align: center;
+
+
+}
+.Contenedor {
+    width: 500px;
+    border: 1xp solid #ccc;
+    border-radius: 2;
+    float: left;
+}
+.Inicio_sesion{
+    position: absolute;
+    border: 10px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500xp;
+    background: rgba(201, 82, 82, 0.567);
+    border-radius: 50px;
+}
+.Inicio_sesion h1{
+    padding: 50px 0 50px 0;
+}
+.Formulario {
+    padding: 0px 0px 0px 123px;
+}
+.Username {
+    margin: 30px 0;
+    width: 200px;
+}
+.Username input{
+    width: 250px;
+}
+.Password{
+    margin: 30px 0;
+    width: 200px;
+
+}
+.Password input{
+    width: 250px;
+
+}
+.Boton_Inicio{
+    margin: 0px 0px 0px 40px;
+    width: 100%;
+    border: 1px solid;
+}
+
+/* Registro profesor*/
+.registro_bonotes {
+    text-align: center !important;
+
+}
+
+.error {
+    color: rgb(221, 78, 78);
+    font-weight: bolder;
+}
+
+label {
+    font-weight: bolder;
+}
+
+
+
+
+
+
+
+
+
+/* Registro 
+.Container_R {
+    padding: 75px 0px 0px 430px;
+    background: rgba(201, 82, 82, 0.567);
+
+}
+.Rut input{
+    padding: 0px 0px 0px 0px;
+    position: relative;
+    left: 120px;
+}
+.Nombre input{
+    padding: 0px 150px 0px 0px;
+    position: relative;
+    left: 79px;
+}
+.Apellido input{
+    padding: 0px 150px 0px 0px;
+    position: relative;
+    left: 79px;
+}
+.Correo input{
+    padding: 0px 150px 0px 0px;
+    position: relative;
+    left: 95px;
+    
+
+}
+registrodiv {
+    color: blue;
+}
